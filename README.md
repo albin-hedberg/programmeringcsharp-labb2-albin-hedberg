@@ -1,3 +1,5 @@
+![Exempel-bild](https://github.com/albin-hedberg/programmeringcsharp-labb2-albin-hedberg/blob/main/Exempel-bild-labb2.png)
+
 # Labb2 – Skapa en simpel butik
 
 Din uppgift är att färdigställa en konsollaplikation som skall agera som en enkel affär.
